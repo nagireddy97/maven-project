@@ -22,7 +22,7 @@
   </modules>
 
   <distributionManagement>
-           <release>
+    <release>
       <id>site-server</id>
       <name>Test Project Site</name>
       <url>http://localhost:8081/repository/sample-release//</url>
